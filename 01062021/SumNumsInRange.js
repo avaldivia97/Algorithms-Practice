@@ -4,6 +4,9 @@
 // For example, sumAll([4,1]) should return 10 because sum of all the numbers between 1 and 4 (both
 // inclusive) is 10.
 
+// Link to problem 
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range
+
 function sumAll(arr) {
     let greater, lower;
     let sum = 0;
